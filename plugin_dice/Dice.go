@@ -1,5 +1,6 @@
 package plugin_dice
 
+//import(
 //"fmt"
 
 //zero "github.com/wdvxdr1123/ZeroBot"
@@ -9,7 +10,7 @@ package plugin_dice
 //"github.com/FloatTech/ZeroBot-Plugin/control"
 //"github.com/FloatTech/ZeroBot-Plugin/utils/file"
 //"github.com/FloatTech/ZeroBot-Plugin/utils/web"
-
+//)
 func init() {
 
 }
